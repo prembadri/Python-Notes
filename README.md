@@ -1,3 +1,6 @@
+
 # Python-Notes
 
-This notest is mainly about how to learn pythin and imp. points 
+|Table Content | Folder | File |Date|
+|--|--|--|--|
+| Introduction | Introduction To Python |[Introduction.md](https://github.com/prembadri/Python-Notes/blob/main/Introduction%20to%20Python/Introduction.md) | 07-04-2023|
